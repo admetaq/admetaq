@@ -13,6 +13,16 @@
 - 📫 Leave a message
 <br/>
 
+<br/>
+<img align='right' <iframe src="https://giphy.com/embed/ZDoJ0Rj05zqBG" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lionel-messi-leo-ZDoJ0Rj05zqBG">via GIPHY</a></p> width="200px">
+
+### 🙋‍♂️ Hobbies
+
+- ⚽ I'm a fan of football!
+- 🎶 I like listening to music!
+- 🎮 I like to play videogames!
+<br/>
+
 ### 🔧 Languages and Tools:
 <img align="left" alt="Python" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
