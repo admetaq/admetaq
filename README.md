@@ -1,9 +1,9 @@
 ### (admetaq)
 <p align="center"> <img align='center' alt="GIF" src="https://raw.githubusercontent.com/joaofaria19/joaofaria19/master/code.gif" width="500px">
 <br />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcxMDYxNDgsIm5iZiI6MTcyNzEwNTg0OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0NjctODk3Y2Q3NTctZWExZi00OTJkLWFhZjktNmQxNjc0MTc3ZTA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIzVDE1MzcyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzOGU3MmYzNDZhYzJkZDVjMGFkYjliMTcwNGQ1ZWY1NDRlMmMxNzhkMzQzNjdjY2VmZTJjODEwM2Q3ZDg0MGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.07nY9uHdf1LO407M8Mhkz2okLyNfMneSl4Q5c-Bd6w0" width="30px">, I'm Ricardo Sousa</h1>
+<h1 align="center">Hi <img src="" width="30px">, I'm Ricardo Sousa</h1>
 <br/>
-<img align='right' src="https://raw.githubusercontent.com/joaofaria19/joaofaria19/master/github.gif" width="200px">
+<img align='right' src="https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcxMDYxNDgsIm5iZiI6MTcyNzEwNTg0OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0NjctODk3Y2Q3NTctZWExZi00OTJkLWFhZjktNmQxNjc0MTc3ZTA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIzVDE1MzcyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzOGU3MmYzNDZhYzJkZDVjMGFkYjliMTcwNGQ1ZWY1NDRlMmMxNzhkMzQzNjdjY2VmZTJjODEwM2Q3ZDg0MGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.07nY9uHdf1LO407M8Mhkz2okLyNfMneSl4Q5c-Bd6w0" width="200px">
 
 ### 🙋‍♂️ About Me
 
