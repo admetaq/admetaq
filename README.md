@@ -14,7 +14,7 @@
 <br/>
 
 <br/>
-<img align='right' <iframe src="https://giphy.com/embed/ZDoJ0Rj05zqBG" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lionel-messi-leo-ZDoJ0Rj05zqBG">via GIPHY</a></p> width="200px">
+<img align='right' <iframe src="https://giphy.com/embed/ZDoJ0Rj05zqBG" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lionel-messi-leo-ZDoJ0Rj05zqBG">via GIPHY width="200px">
 
 ### 🙋‍♂️ Hobbies
 
