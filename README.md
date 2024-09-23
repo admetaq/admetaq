@@ -14,7 +14,7 @@
 <br/>
 
 <br/>
-<img align='right' <iframe src='//gifs.com/embed/lionel-messi-dribblegod-YEP7XW' frameborder='0' scrolling='no' width='200px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe> width="200px">
+<img align='right' src='//gifs.com/embed/lionel-messi-dribblegod-YEP7XW' width='200px' />
 
 ### 🙋‍♂️ Hobbies
 
@@ -22,6 +22,7 @@
 - 🎶 I like listening to music!
 - 🎮 I like to play videogames!
 <br/>
+
 
 ### 🔧 Languages and Tools:
 <img align="left" alt="Python" width="26px"
