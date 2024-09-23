@@ -14,7 +14,7 @@
 <br/>
 
 <br/>
-<img align='right' src='//gifs.com/embed/lionel-messi-dribblegod-YEP7XW' width='200px' />
+<img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgzZnNob2xqZ3Fnbnpsbm55N2dhbHE5MWJqdHlkMHBhdmZ5b2t6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/loG32MXYyQl5vUJL46/giphy.webp' width='200px' />
 
 ### 🙋‍♂️ Hobbies
 
