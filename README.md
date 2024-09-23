@@ -14,7 +14,7 @@
 <br/>
 
 <br/>
-<img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgzZnNob2xqZ3Fnbnpsbm55N2dhbHE5MWJqdHlkMHBhdmZ5b2t6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/loG32MXYyQl5vUJL46/giphy.webp' width='200px' />
+<img align='right' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h3cXJxdzFkOGtiNXhrNG1oY3Q4bWhyaDR4c2FmZGlmZWRieG5wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LUdj6sAoQiO269VYys/giphy.webp' width='200px' />
 
 ### 🙋‍♂️ Hobbies
 
